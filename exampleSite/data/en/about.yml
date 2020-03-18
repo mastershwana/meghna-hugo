@@ -3,7 +3,7 @@ about:
   enable: true
   title: Om oss
   about_item:
-  - icon: ''
+  - icon: Vår klubb
     title: Muay Thai & Boxningsklubb
     content: 'Vi satsar på våra ungdomar & seniorer. Allt från motionärer till professionella
       fighters. '
@@ -12,7 +12,7 @@ about:
     content: Professionella tränare med många års erfarenhet av tävling & träning
       på hög nivå. Vi satsar på våra atleter och ger alla en chans. Det är aldrig
       för sent!
-  - icon: ti-thought
+  - icon: ''
     title: We're Genius
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
       libero, perspiciatis eos provident laborum eum dignissimos.
