@@ -7,7 +7,7 @@ contact:
   form_action: "#"
   contact_details:
   - icon: ti-location-pin
-    info: Norrköping Gustaf adolfsgatan 19
+    info: Gustaf adolfsgatan 19 Norrköping
   - icon: ti-email
     info: 'Email: shwana@nkpgboxning.com'
   map:
