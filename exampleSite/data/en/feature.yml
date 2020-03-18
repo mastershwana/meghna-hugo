@@ -10,10 +10,9 @@ feature:
   - title: Hela världen
     icon: ti-world
     content: Träna & tävla utomlands
-  - title: Easy Customization
+  - title: Teknik & disciplin
     icon: ti-panel
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: Teknik & disciplin är viktigast!
   - title: SEO Optimized
     icon: ti-stats-up
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
