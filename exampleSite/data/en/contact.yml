@@ -12,4 +12,4 @@ contact:
     info: 'Email: shwana@nkpgboxning.com'
   map:
     gmap_api: https://www.google.com/maps/embed/v1/place?q=place_id:ChIJYwYyBqs7WUYRzFj7dnU8J2E&key=...
-    enable: true
+    enable: false
