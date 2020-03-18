@@ -9,5 +9,5 @@ banner:
     håll koll på vår instagram & facebook för statusuppdatering. Välkommen!
   button:
     enable: true
-    label: Explore Us
-    link: "#services"
+    label: Erbjudande
+    link: "#erbjudanden"
