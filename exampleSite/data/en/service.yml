@@ -3,6 +3,9 @@ service:
   enable: true
   title: Our Services
   service_item:
+  - name: Kostrådgivning
+    icon: ''
+    content: 'Kostrådgivning 4 | 6 | 8 veckor '
   - name: Muay Thai
     icon: ti-world
     content: Thaiboxning med Shwana Kadirzada
