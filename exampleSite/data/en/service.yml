@@ -6,10 +6,9 @@ service:
   - name: Muay Thai
     icon: ti-world
     content: Thaiboxning med Shwana Kadirzada
-  - name: Responsive Design
+  - name: Boxning
     icon: ti-layout
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: Boxning med Ali Karim eller Suljeman Karim
   - name: Media &amp; Advertisement
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
