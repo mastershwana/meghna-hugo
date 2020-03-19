@@ -36,7 +36,7 @@ pricing:
     button:
       label: Signup
       link: "#"
-  - name: Platinum 18+
+  - name: Silver 18+
     price: "499"
     unit: mån
     services:
