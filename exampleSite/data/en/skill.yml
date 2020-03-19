@@ -9,7 +9,7 @@ skill:
   image: images/about/company-growth.webp
   skill_item:
   - name: Muay Thai
-    percent: 1%
+    percent: 90%
   - name: Boxning
     percent: 1%
   - name: HIIT
