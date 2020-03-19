@@ -53,6 +53,7 @@ pricing:
   - name: Guld 18+
     unit: mån
     services:
+    - 12 månaders bindningstid
     - 2 PT pass i månaden
     - Thaiboxning & Boxning
     - 5-9 pass i veckan (upp till 12 pass inför tävling)
