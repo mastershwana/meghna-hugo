@@ -3,6 +3,14 @@ pricing:
   enable: true
   title: Our Plans
   pricing_table:
+  - name: PT Pass
+    price: 499kr
+    unit: 1 timme
+    services:
+    - HIIT / kondition / styrka
+    - Thaiboxning
+    - Boxning
+    button: ''
   - name: 13-17 år
     price: 150kr
     unit: mån
