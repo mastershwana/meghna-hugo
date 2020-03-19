@@ -15,10 +15,6 @@ team:
       link: https://www.facebook.com/ShwanaTheHitman/
     - icon: " ti-instagram"
       link: https://www.instagram.com/mastershwana/?hl=sv
-    - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
-      link: "#"
   - name: Frank Miller
     image_webp: images/team/team-2.webp
     image: images/team/team-2.jpg
