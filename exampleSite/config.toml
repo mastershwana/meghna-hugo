@@ -31,7 +31,7 @@ name = "Team"
 weight = 4
 [[menu.main]]
 URL = "pricing"
-name = "Pricing"
+name = "Priser"
 weight = 5
 [[menu.main]]
 URL = "blog"
