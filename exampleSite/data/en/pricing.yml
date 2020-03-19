@@ -3,15 +3,6 @@ pricing:
   enable: true
   title: Our Plans
   pricing_table:
-  - name: PT Grupp pass upp till 4 personer
-    price: 1499kr
-    unit: tim
-    services:
-    - Välj bland
-    - HIIT / Kondition / Styrka
-    - Thaiboxning
-    - Boxning
-    button: ''
   - name: 13-17 år
     price: 150kr
     unit: mån
@@ -82,4 +73,13 @@ pricing:
     - HIIT / kondition / styrka
     - Boxning
     - Thaiboxning
+    button: ''
+  - name: PT Grupp pass upp till 4 personer
+    price: 1499kr
+    unit: tim
+    services:
+    - Välj bland
+    - HIIT / Kondition / Styrka
+    - Thaiboxning
+    - Boxning
     button: ''
