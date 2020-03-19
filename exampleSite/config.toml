@@ -23,7 +23,7 @@ name = "Om oss"
 weight = 1
 [[menu.main]]
 URL = "services"
-name = "Service"
+name = "Tjänster"
 weight = 2
 [[menu.main]]
 URL = "portfolio"
