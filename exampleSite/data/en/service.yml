@@ -15,7 +15,3 @@ service:
   - name: Grupp Pass 2 upp till 10 personer
     icon: ti-package
     content: Med Shwana Kadirzada / Ali Karim eller Suljeman Karim
-  - name: Networking
-    icon: ti-pulse
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
