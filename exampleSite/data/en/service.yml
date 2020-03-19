@@ -12,7 +12,7 @@ service:
   - name: HIIT / Kondition / Styrka
     icon: ti-blackboard
     content: Med Shwana Kadirzada / Ali Karim eller Suljeman Karim
-  - name: Grupp Pass
+  - name: Grupp Pass 2 upp till 10 personer
     icon: ti-package
     content: Med Shwana Kadirzada / Ali Karim eller Suljeman Karim
   - name: Networking
