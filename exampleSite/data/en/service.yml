@@ -1,7 +1,7 @@
 ---
 service:
   enable: true
-  title: Our Services
+  title: Våra Tjänster
   service_item:
   - name: 'Styrketräning '
     icon: ''
