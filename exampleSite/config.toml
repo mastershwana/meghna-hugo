@@ -39,7 +39,7 @@ name = "Schema"
 weight = 6
 [[menu.main]]
 URL = "contact"
-name = "Contact"
+name = "Kontakt"
 weight = 7
 [params]
 author = "Themefisher"
