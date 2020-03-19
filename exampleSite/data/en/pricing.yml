@@ -1,7 +1,7 @@
 ---
 pricing:
   enable: true
-  title: Our Plans
+  title: Priser
   pricing_table:
   - name: 13-17 år
     price: "800"
