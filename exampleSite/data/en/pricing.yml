@@ -47,3 +47,13 @@ pricing:
     button:
       label: Signup
       link: "#"
+  - name: Guld+
+    unit: mån
+    services:
+    - 2 PT pass i månaden
+    - Thaiboxning & Boxning
+    - 5-9 pass i veckan (upp till 12 pass inför tävling)
+    - Tävlingsträning(inför tävling)
+    - Medlemskap i förening 300kr per år
+    button: ''
+    price: "649"
