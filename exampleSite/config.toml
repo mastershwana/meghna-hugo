@@ -86,7 +86,7 @@ enable = true
 preloader = "images/logo.png"
 [[params.social]]
 icon = "ti-instagram"
-link = "https://www.instagram.com/mastershwana/"
+link = "https://www.instagram.com/norrkopingmuaythai/"
 [[params.social]]
 icon = "ti-facebook"
 link = "#"
