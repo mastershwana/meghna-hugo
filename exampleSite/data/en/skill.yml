@@ -10,8 +10,8 @@ skill:
   skill_item:
   - name: Muay Thai
     percent: 1%
-  - name: Analysis
-    percent: 70%
+  - name: Boxning
+    percent: 1%
   - name: Design
     percent: 80%
   - name: IOS Development
