@@ -9,10 +9,9 @@ service:
   - name: Boxning
     icon: ti-layout
     content: Boxning med Ali Karim eller Suljeman Karim
-  - name: Media &amp; Advertisement
+  - name: HIIT / Kondition / Styrka
     icon: ti-blackboard
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: Med Shwana Kadirzada / Ali Karim eller Suljeman Karim
   - name: Graphic Design
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
