@@ -7,9 +7,9 @@ feature:
   content: Vårt mål är att träna på olika klubbar runt om i världen, tävla nationellt/internationellt
     och samla så mycket erfarenhet som möjligt.
   feature_item:
-  - title: Around the world
+  - title: Around The World
     icon: ti-world
-    content: Träna & tävla utomlands
+    content: Träna & Tävla Utomlands
   - title: Teknik & Disciplin
     icon: ti-panel
     content: Våra atleters viktigaste egenskaper
