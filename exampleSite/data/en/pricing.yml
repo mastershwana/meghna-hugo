@@ -25,7 +25,7 @@ pricing:
     button:
       label: Signup
       link: "#"
-  - name: Guld
+  - name: Guld 18+
     price: "349"
     unit: mån
     services:
