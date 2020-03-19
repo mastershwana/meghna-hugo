@@ -25,7 +25,7 @@ pricing:
     button:
       label: Signup
       link: "#"
-  - name: Guld 18+
+  - name: Brons 18+
     price: "349"
     unit: mån
     services:
