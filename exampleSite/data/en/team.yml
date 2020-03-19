@@ -7,9 +7,8 @@ team:
     image_webp: images/team/team-1.webp
     image: images/team/team-1.jpg
     designation: Tränare & Proffsfighter Muay Thai (Thaiboxning)
-    content: Shwana Kadirzada har tävlat i Muay Thai | Kickboxning | MMA | BJJ | Submission
-      Wrestling & är för tillfället Professionell Muay Thai & Kickboxare. Huvudinstruktör
-      Muay Thai & Boxning
+    content: "Shwana Kadirzada har erfarenhet av följande kampsporter\nMuay Thai \nKickboxning\nMMA\nBJJ\nSubmission
+      Wrestling\nBrottning"
     social:
     - icon: ti-facebook
       link: https://www.facebook.com/ShwanaTheHitman/
