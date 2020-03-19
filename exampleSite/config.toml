@@ -35,7 +35,7 @@ name = "Priser"
 weight = 5
 [[menu.main]]
 URL = "blog"
-name = "Blog"
+name = "Schema"
 weight = 6
 [[menu.main]]
 URL = "contact"
