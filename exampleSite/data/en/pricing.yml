@@ -30,6 +30,7 @@ pricing:
     price: "349"
     unit: mån
     services:
+    - 12 månaders bindningstid
     - Thaiboxning eller Boxning
     - 5-9 pass i veckan
     - Tävlingsträning(inför tävling)
