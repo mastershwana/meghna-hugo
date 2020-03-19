@@ -61,6 +61,7 @@ pricing:
     price: 499kr
     unit: 1 timme
     services:
+    - Välj bland
     - HIIT / kondition / styrka
     - Thaiboxning
     - Boxning
