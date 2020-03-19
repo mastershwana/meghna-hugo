@@ -3,7 +3,7 @@ pricing:
   enable: true
   title: Our Plans
   pricing_table:
-  - name: PT Pass
+  - name: PT Pass 1 timme
     price: 499kr
     unit: 1 timme
     services:
