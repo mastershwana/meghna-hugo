@@ -3,9 +3,9 @@ service:
   enable: true
   title: Our Services
   service_item:
-  - name: Kostrådgivning
+  - name: 'Styrketräning '
     icon: ''
-    content: 'Kostrådgivning 4 | 6 | 8 veckor '
+    content: 'Styrketräning PT Pass '
   - name: Muay Thai
     icon: ti-world
     content: Thaiboxning med Shwana Kadirzada
@@ -18,3 +18,6 @@ service:
   - name: Grupp Pass 2 upp till 10 personer
     icon: ti-package
     content: Med Shwana Kadirzada / Ali Karim eller Suljeman Karim
+  - name: Kostrådgivning
+    icon: ''
+    content: 'Kostrådgivning 4 | 6 | 8 veckor '
