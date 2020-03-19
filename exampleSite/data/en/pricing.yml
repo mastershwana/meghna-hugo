@@ -15,9 +15,10 @@ pricing:
       label: Signup
       link: "#"
   - name: Student
-    price: 250kr
+    price: 279kr
     unit: mån
     services:
+    - 12 månader bindningstid
     - Thaiboxning eller Boxning
     - 5-9 pass i veckan
     - Tävlingsträning(inför tävling)
