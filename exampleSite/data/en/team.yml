@@ -7,8 +7,15 @@ team:
     image_webp: images/team/team-1.webp
     image: images/team/team-1.jpg
     designation: Huvudinstruktör Muay Thai & Boxning samt Proffsfighter Muay Thai
-    content: "Shwana Kadirzada Huvudinstruktör för Muay Thai & Boxning.\nErfarenhet\nMuay
-      Thai \nBoxning\nKickboxning\nMMA\nBJJ\nSubmission Wrestling\nBrottning"
+    content: |-
+      Shwana Kadirzada har erfarenhet av följande kampsporter
+      Muay Thai
+      Boxning
+      Kickboxning
+      MMA
+      BJJ
+      Submission Wrestling
+      Brottning
     social:
     - icon: ti-facebook
       link: https://www.facebook.com/ShwanaTheHitman/
