@@ -4,7 +4,7 @@ team:
   title: Team
   team_member:
   - name: Shwana "The Hitman" Kadirzada
-    image_webp: images/team/team-1.webp
+    image_webp: exampleSite/static/images/Bild på Shwana-1.jpg
     image: exampleSite/static/images/Bild på Shwana-1.jpg
     designation: Huvudinstruktör Muay Thai & Boxning samt Proffsfighter Muay Thai
     content: |-
